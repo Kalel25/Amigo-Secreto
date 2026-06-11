@@ -1,7 +1,7 @@
 # Sorteador Amigo Secreto
 <br>
 
-## Sobre:
+## 🪶 Sobre
 <p>Criação de um sistema de sorteamento para amigo secreto, os nomes são inseridos e o sistema embaralha eles. Manipulação Html via JavaScript.</p>
 <p>Layout e estilos feitos pela Alura, meu trabalho foi fazer a interação funcionar.</p>
 <br>
